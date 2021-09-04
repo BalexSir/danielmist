@@ -1,0 +1,90 @@
+*{
+    padding: 0; 
+    margin : 0; 
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    color: #c2abab; 
+    font-size: 60px; 
+    text-align: center; 
+    padding-top: 40px; 
+    padding-bottom: 40px; 
+}
+
+.boutons h2 { 
+    font-family: 'Anton', sans-serif;
+    color: #c2abab; 
+    text-align: center; 
+    font-size: 30px; 
+    padding: 0; 
+    margin-top: 60px; 
+    margin-bottom: 20px; 
+}
+
+
+.titre-bouton {
+    background-color:rgb(17, 17, 17); 
+    padding: 0 50px; 
+    border-radius: 2px;
+}
+
+
+.image-container {
+    background-image: url('/Users/AlexandreSudaka/Documents/Freelance Web/Projects/DanielMist Website/images/DM.png'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center;
+    height: 520px; 
+    width: 70%;  
+    margin: auto; 
+    display: flex; 
+    align-items: center; 
+
+}
+
+.accueil {
+    
+    background-color: rgb(24, 24, 24); 
+    padding-bottom : 50px; 
+    
+
+}
+
+.boutons {
+    background-color: rgb(24, 24, 24); 
+    display: flex; 
+    flex-direction: column; 
+   padding-top: 40px; 
+   padding-bottom: 80px; 
+   
+}
+
+
+#videomessed {
+    width: 100%;
+    
+  }
+
+.boutons a:hover {
+    color: #808080; 
+ }
+
+ .boutons a { 
+    text-decoration: none;
+    background-color: rgb(10, 10, 10);   
+    color: #c2abab; 
+}
+
+
+.boutons p{
+    font-family: 'Roboto Mono', monospace;
+    text-align: center; 
+    color: #cabfbf; 
+    font-size: 22px; 
+}
+
+
+.video-container {
+    background-color: black; 
+}
