@@ -31,7 +31,7 @@ h1 {
 
 
 .image-container {
-    background-image: url('danielmist/blob/main/DM.png'); 
+    background-image: url('/danielmist/blob/main/DM.png'); 
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center;
