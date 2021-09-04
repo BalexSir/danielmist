@@ -88,3 +88,7 @@ h1 {
 .video-container {
     background-color: black; 
 }
+
+iframe { 
+width: 100%; 
+}
